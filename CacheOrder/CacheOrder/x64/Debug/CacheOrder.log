@@ -1,0 +1,5 @@
+﻿  OrderCacheImplementation.cpp
+  Main.cpp
+  Generando código...
+D:\Cursos_Programacion\CPlusPlus_OrdersTest\CacheOrder\Main.cpp(318,31): warning C4018: '<': no coinciden signed/unsigned
+  CacheOrder.vcxproj -> D:\Cursos_Programacion\CPlusPlus_OrdersTest\CacheOrder\x64\Debug\CacheOrder.exe

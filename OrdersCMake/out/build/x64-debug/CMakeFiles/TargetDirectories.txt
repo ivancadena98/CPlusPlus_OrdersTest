@@ -1,0 +1,3 @@
+D:/Cursos_Programacion/CPlusPlus_OrdersTest/OrdersCMake/out/build/x64-debug/CMakeFiles/OrdersCMake.dir
+D:/Cursos_Programacion/CPlusPlus_OrdersTest/OrdersCMake/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/Cursos_Programacion/CPlusPlus_OrdersTest/OrdersCMake/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
